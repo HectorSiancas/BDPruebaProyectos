@@ -1,0 +1,6 @@
+﻿Alertas de Criticas de Obras de construccion de Seguridad Industrial,,,,,,,,,,,,
+,id_alerta,nombre,tipo_alerta,descripcion,nivel_alerta,fecha_alerta,,,,,,
+,2,Torre Norte Residencial,Seguridad,Trabajador sin casco detectado,Media,15:00.0,,,,,,
+,3,Torre Norte Residencial,Clima,Lluvias intensas previstas en la zona,Alta,30:00.0,,,,,,
+,6,Edificio Central,Asentamiento,Asentamiento fuera del rango permitido,Crítica,10:00.0,,,,,,
+,8,Puente Norte,Seguridad,Acceso restringido bloqueado parcialmente,Media,25:00.0,,,,,,

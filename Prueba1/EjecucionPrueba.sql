@@ -1,0 +1,1 @@
+exec dbo.sp_GenerarCSV_AlertasCriticas

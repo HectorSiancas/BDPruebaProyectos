@@ -1,0 +1,47 @@
+﻿id_proyecto,fecha_bitacora,actividad_actual,responsible,tipo_alerta,detalle_alerta,nivel_alerta,fecha_alerta,asentamiento_mm,fecha_medicion_asentamiento,estado_asentamiento
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,18,1/17/2026,Crítico
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,18,1/17/2026,Crítico
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,18,1/17/2026,Crítico
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,18,1/17/2026,Crítico
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,18,1/17/2026,Crítico
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,17,1/16/2026,Revisar
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,17,1/16/2026,Revisar
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,17,1/16/2026,Revisar
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,17,1/16/2026,Revisar
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,17,1/16/2026,Revisar
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,16,1/15/2026,Revisar
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,16,1/15/2026,Revisar
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,16,1/15/2026,Revisar
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,16,1/15/2026,Revisar
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,16,1/15/2026,Revisar
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,15,1/14/2026,Revisar
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,15,1/14/2026,Revisar
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,15,1/14/2026,Revisar
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,15,1/14/2026,Revisar
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,15,1/14/2026,Revisar
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,14,1/13/2026,Monitorear
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,14,1/13/2026,Monitorear
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,14,1/13/2026,Monitorear
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,14,1/13/2026,Monitorear
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,14,1/13/2026,Monitorear
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,11,1/10/2026,Monitorear
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,11,1/10/2026,Monitorear
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,11,1/10/2026,Monitorear
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,11,1/10/2026,Monitorear
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,11,1/10/2026,Monitorear
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,10,1/9/2026,Monitorear
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,10,1/9/2026,Monitorear
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,10,1/9/2026,Monitorear
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,10,1/9/2026,Monitorear
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,10,1/9/2026,Monitorear
+1,5/5/2026,Prueba de resistencia de concreto realizado,Ing. Salazar,NULL,NULL,NULL,NULL,6,1/5/2026,Monitorear
+1,5/4/2026,Revisión de materiales recibidos en almacén,Supervisor López,NULL,NULL,NULL,NULL,6,1/5/2026,Monitorear
+1,5/1/2026,Inicio de vaciado de concreto en zona A,Ing. Ramirez,NULL,NULL,NULL,NULL,6,1/5/2026,Monitorear
+1,5/2/2026,Instalación de acero estructural en columnas,Ing. Ramirez,NULL,NULL,NULL,NULL,6,1/5/2026,Monitorear
+1,5/3/2026,Supervisión de cimentación y encofrado,Ing. Torres,NULL,NULL,NULL,NULL,6,1/5/2026,Monitorear
+2,5/8/2026,Corrección de alineamiento topográfico,Topógrafo Vega,Asentamiento,Asentamiento fuera del rango permitido,Crítica,10:00.0,NULL,NULL,NULL
+2,5/6/2026,Avance de excavación para pilotes,Ing. Quispe,Asentamiento,Asentamiento fuera del rango permitido,Crítica,10:00.0,NULL,NULL,NULL
+2,5/7/2026,Inspección de maquinaria pesada,Supervisor Díaz,Asentamiento,Asentamiento fuera del rango permitido,Crítica,10:00.0,NULL,NULL,NULL
+2,5/8/2026,Corrección de alineamiento topográfico,Topógrafo Vega,Estructural,Nivel de torsión elevado en viga principal,Alta,45:00.0,NULL,NULL,NULL
+2,5/7/2026,Inspección de maquinaria pesada,Supervisor Díaz,Estructural,Nivel de torsión elevado en viga principal,Alta,45:00.0,NULL,NULL,NULL
+2,5/6/2026,Avance de excavación para pilotes,Ing. Quispe,Estructural,Nivel de torsión elevado en viga principal,Alta,45:00.0,NULL,NULL,NULL

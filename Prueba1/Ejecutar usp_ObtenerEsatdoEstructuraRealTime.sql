@@ -1,0 +1,1 @@
+Exec usp_ObtenerEstadoEstructuralRealTime
