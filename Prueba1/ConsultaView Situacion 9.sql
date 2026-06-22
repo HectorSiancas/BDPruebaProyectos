@@ -1,2 +1,2 @@
 SELECT * 
-FROM vw_ComprasMateriales;
+FROM vw_AlertasCriticas;
